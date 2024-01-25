@@ -1,5 +1,5 @@
-# CGFTSVM_ID
-Class probability and generalized bell fuzzy twin SVM for imbalanced data (CGFTSVM_ID)
+# CGFTSVM-ID
+Class probability and generalized bell fuzzy twin SVM for imbalanced data (CGFTSVM-ID)
 This code corresponds to the paper:  Anuradha Kumari, M. Tanveer∗ Senior Member, IEEE,, C.T. Lin, Fellow, IEEE. "Class probability and generalized bell fuzzy twin SVM for imbalanced data".
 
 If you are using our code, please give proper citation to the above given paper.
